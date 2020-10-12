@@ -1,2 +1,2 @@
 # leetcode
-LeetCode tings I've done
+LeetCode problems I've done.
